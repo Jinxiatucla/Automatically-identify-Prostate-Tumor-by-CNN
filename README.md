@@ -18,13 +18,13 @@ prune&generate_path:
 * generate_image_path: code we used to generate images path and label for training fine-tune Alexnet
 
 
-unaugmented_DATA:
+unaugmented_DATA:(not up0loaded)
 * original MRI images from Professor Scalzo. and Xinran
 * Images and masks predicted from professor Scalzo's data by our segmentation model.
 
 
 
-Augmented_DATA:
+Augmented_DATA: (not uploaded)
 * dataset3: augmented segmented images from dataset1.(images path are listed in filelist_train and filelist_test.)
 * dataset4: augmented segmented images from dataset2 and have been pruned by predicted masks.(images path are listed in filelist_train and filelist_test.)
 * dataset5: augmented unsegmented images from dataset2.(images path are listed in filelist_train and filelist_test.)
